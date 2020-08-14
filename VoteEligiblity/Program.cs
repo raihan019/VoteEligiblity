@@ -26,7 +26,7 @@ namespace VoteEligiblity
             else if (number3 > number1 && number3 > number2)
                 Console.WriteLine("" + number3 + " is maximum than " + number1 + " and " + number2 + "");
             else
-                Console.WriteLine("" + number1 + "," + number2 + " and " + number3 + " are equal");
+                Console.WriteLine("" + number1 + "," + number2 + " and " + number3 + " are equal number");
 
 
             Console.WriteLine("Thank you");
