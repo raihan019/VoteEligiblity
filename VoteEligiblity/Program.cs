@@ -29,7 +29,7 @@ namespace VoteEligiblity
                 Console.WriteLine("" + number1 + "," + number2 + " and " + number3 + " are equal");
 
 
-
+            Console.WriteLine("Thank you");
             Console.ReadKey();
         }
     }
